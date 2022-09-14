@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+
+html,body{
+    background-image: url(../src/assets/images/kit.jpg);
+   background-repeat:no-repeat ;
+    background-blend-mode: multiply;
+    background-size: 100%;
+    font-family: 'Numans', sans-serif;
+    }
